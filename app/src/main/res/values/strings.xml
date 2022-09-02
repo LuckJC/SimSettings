@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SimPick</string>
+    <!-- About phone, status item title.  The phone MSID number of the current device.-->
+    <string name="status_msid_number" translatable="false">MSID</string>
+    <!-- About phone screen, title for MEID for multi-sim devices -->
+    <string name="meid_multi_sim" translatable="false">MEID (sim slot %1$d)</string>
+    <!-- About phone, status item title.  The phone MEID number of the current LTE/CDMA device. [CHAR LIMIT=30] -->
+    <string name="status_meid_number" translatable="false">MEID</string>
+    <!-- About phone, status item title.  The ICCID of the current LTE device. [CHAR LIMIT=30] -->
+    <string name="status_icc_id" translatable="false">ICCID</string>
+    <!-- About phone screen, title for IMEI for multi-sim devices -->
+    <string name="imei_multi_sim" translatable="false">IMEI (sim slot %1$d)</string>
+    <!-- Do not translate. About phone, status item title -->
+    <string name="status_imei" translatable="false">IMEI</string>
+    <!-- Do not translate. About phone, status item title -->
+    <string name="status_imei_sv" translatable="false">IMEI SV</string>
+    <string name="status_imsi_id" translatable="false">IMSI</string>
+
+    <string name="network_registered">Network Registered</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="title_device_info">Device Infomation</string>
+    <string name="title_mobile_network">Mobile Network</string>
+    <string name="signal_strength">Signal Strength</string>
+    <string name="network_type">Network Type</string>
+</resources>
